@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+	<user>
+
+		<name>Nightwish</name>
+
+		<Genres>Symphonic metal</Genres>
+
+		<country>Finland</country>
+
+		<lead>Tarja Turunen</lead>
+
+	</user>
+
+
+	<user>
+
+		<name>Apocalyptica</name>
+
+		<Genres>Symphonic metal</Genres>
+
+		<country>Finland</country>
+
+		<lead>Eicca Toppinen</lead>
+	</user>
+
+
+	<user>
+
+		<name>System of a Down</name>
+
+		<Genres>Alternative metal</Genres>
+
+		<country>USA</country>
+
+		<lead>Serj Tankian</lead>
+	</user>
+	
+	
+
+	<user>
+
+		<name>Rammstein</name>
+
+		<Genres>industrial metal</Genres>
+
+		<country>Germany</country>
+
+		<lead>Till Lindemann</lead>
+
+	</user>
+
+
+	<user>
+
+		<name>Dream Theater</name>
+
+		<Genres>Progressive metal</Genres>
+
+		<country>USA</country>
+
+		<lead>John Myung</lead>
+	</user>
+
+
+	
+</users>
